@@ -8,4 +8,4 @@ IP address filter
 
 ## Usage
 
-`python3 IP-filter.py "path to the file with danger IPs" "path to logs"`
+`python3 IP-filter.py "path to logs" "path to the file with danger IPs"`
